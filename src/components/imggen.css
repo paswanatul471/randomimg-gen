@@ -1,0 +1,23 @@
+.img-gen{
+    margin: 2rem;
+    background-color: #fff;
+}
+
+img{
+    height: 70vh;
+    width: 50%;
+    border-radius: 1rem;
+}
+.buttons{
+    width: 19%;
+    margin: 0 auto;
+}
+.social-media-btn{
+    border: none;
+    margin: 1rem 1rem;
+    background-color: #7780f5;
+    color: #f1ebeb;
+    cursor: pointer;
+    border-radius: 6px;
+    padding: 5px 10px;
+}
