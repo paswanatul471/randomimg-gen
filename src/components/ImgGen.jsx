@@ -10,7 +10,9 @@ const ImgGen = () => {
   }, []);
 
   const fetchRandomImage = () => {
-    const randomImageUrl = 'https://source.unsplash.com/random';
+    // const randomImageUrl = 'https://source.unsplash.com/random';
+    const randomImageUrl = 'https://random.imagecdn.app/500/150';
+
     
     setImageUrl(randomImageUrl);
   };
